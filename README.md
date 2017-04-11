@@ -1,2 +1,3 @@
 # hello-world
-just a tryout for github
+
+hi, this is waterdropping. I'll like to cowork with world-wide dev on some java-based projects.
